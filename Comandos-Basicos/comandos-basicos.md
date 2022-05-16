@@ -20,6 +20,12 @@ O comando "git status", irá nos mostrar o estado do repositório; se esse repos
  Preparados os arquivos, após o "git add", é hora de enviar a atualização para o repositório através do comando "git commit".<br>
  ### git commit -m "Descrição do commit"<br>
 
+ - ## GIT PUSH
+ Após encapsulados os arquivos que deseja enviar, através do "git add .", deixando-os na área de marge e realizado o "git commit" para descrever a alteração que está sendo realizada; é hora de enviá-los de seu repositório local, no git, para o seu repositório remoto no github através do comando.
+
+ ### git push
+<br>
+
 ## OBS: ✏️ </h2>
 
  - ### UNTRACKED FILES
